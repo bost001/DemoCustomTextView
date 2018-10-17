@@ -12,7 +12,7 @@
         android:layout_height="wrap_content"
         android:text="Hello World!"
         android:gravity="center"
-        android:textSize="30sp"
+        android:textSize="50sp"
         android:textColor="#000"
         app:customFont="example1.otf"/>
 
@@ -21,7 +21,7 @@
         android:layout_height="wrap_content"
         android:text="Hello World!"
         android:gravity="center"
-        android:textSize="30sp"
+        android:textSize="50sp"
         android:textColor="#000"
         app:customFont="example2.ttf"/>
 
@@ -30,7 +30,7 @@
         android:layout_height="wrap_content"
         android:text="Hello World!"
         android:gravity="center"
-        android:textSize="30sp"
+        android:textSize="50sp"
         android:textColor="#000"
         app:customFont="example3.ttf"/>
 
